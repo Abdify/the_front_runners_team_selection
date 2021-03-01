@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "name": "Tamim Iqbal",
+        "salary": 500000,
+        "country": "Bangladesh",
+        "image": "https://www.cricket.com.au/-/media/Players/Men/International/Bangladesh/Tamim-Iqbal-CWC19.ashx"
+    },
+    {
+        "id": 4,
+        "name": "Shakib Al Hasan",
+        "salary": 2000000,
+        "country": "Bangladesh",
+        "image": "https://storage.googleapis.com/cricketimages/Players/5I.png"
+    },
+    {
+        "id": 8,
+        "name": "Mahmudullah Riad",
+        "salary": 630000,
+        "country": "Bangladesh",
+        "image": "https://www.cricket.com.au/-/media/Players/Men/International/Bangladesh/Mahmudullah-CWC19.ashx"
+    },
+    {
+        "id": 9,
+        "name": "Mushfiqur Rahim",
+        "salary": 400000,
+        "country": "Bangladesh",
+        "image": "https://www.cricket.com.au/-/media/Players/Men/International/Bangladesh/Mushfiqur-Rahim-CWC19.ashx"
+    },
+    {
+        "id": 10,
+        "name": "Sabbir",
+        "salary": 270000,
+        "country": "Bangladesh",
+        "image": "https://www.cricket.com.au/-/media/Players/Men/International/Bangladesh/Sabbir-Rahman-CWC19.ashx"
+    },
+    {
+        "id": 11,
+        "name": "Soumya Sarkar",
+        "salary": 561000,
+        "country":"Bangladesh",
+        "image": "https://www.cricket.com.au/-/media/Players/Men/International/Bangladesh/Soumya-Sarkar-CWC19.ashx"
+    },
+    {
+        "id": 12,
+        "name": "Imrul Kayes",
+        "salary": 300000,
+        "country": "Bangladesh",
+        "image": "https://www.cricket.com.au/-/media/Players/Men/International/Bangladesh/Imrul-Kayes-Ct17.ashx"
+    },
+    {
+        "id": 13,
+        "name": "Mominul Haque",
+        "salary": 350000,
+        "country":"Bangladesh",
+        "image": "https://www.cricket.com.au/-/media/Players/Men/International/Bangladesh/Mominul%20Haque.ashx"
+    },
+    {
+        "id": 14,
+        "name": "Mashrafe Mortaza",
+        "salary": 560000,
+        "country": "Bangladesh",
+        "image": "https://qph.fs.quoracdn.net/main-qimg-c828e1d4f4008a8841ba901b29cba952"
+    },
+    {
+        "id": 15,
+        "name": "Mustafizur Rahman",
+        "salary": 200000,
+        "country": "Bangladesh",
+        "image": "https://www.cricket.com.au/-/media/Players/Men/International/Bangladesh/Mustafizur-Rahman-CWC19.ashx"
+    },
+    {
+        "id": 2,
+        "name": "Alex Hales",
+        "salary": 100000,
+        "country": "England",
+        "image": "https://www.cricket.com.au/-/media/Players/Men/International/England/T20/Alex-Hales-T2018.ashx"
+    },
+    {
+        "id": 3,
+        "name": "Evin Lewis",
+        "salary": 510000,
+        "country": "West Indies",
+        "image": "https://www.cricket.com.au/-/media/Players/Men/International/West%20Indies/ODIWC19/Evin-Lewis-CWC19.ashx"
+    },
+    {
+        "id": 5,
+        "name": "Moeen Ali",
+        "salary": 560000,
+        "country": "England",
+        "image": "https://www.cricket.com.au/-/media/Players/Men/International/England/Moeen-Ali-CWC19.ashx"
+    },
+    {
+        "id": 6,
+        "name": "Steve Smith",
+        "salary": 300000,
+        "country": "Australia",
+        "image": "https://www.cricket.com.au/-/media/Players/Men/International/Australia/Test%202020%2021/Steve-Smith-Test2021.ashx"
+    },
+    {
+        "id": 7,
+        "name": "Glenn Maxwell",
+        "salary": 350000,
+        "country": "Australia",
+        "image": "https://www.cricket.com.au/-/media/Players/Men/International/Australia/Glenn-Maxwell-T20I2020.ashx"
+    }
+]
